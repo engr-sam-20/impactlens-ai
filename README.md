@@ -8,31 +8,6 @@ Live Application: [https://impactlens-ai.ai.studio/](https://impactlens-ai.ai.st
 
 Translating early-stage social impact concepts into investor-ready, grant-compliant proposals is often a time-consuming barrier for founders, NGOs, and grant writers. **ImpactLens AI** streamlines this evaluation process by providing structured multi-dimensional analysis, root-cause identification, stakeholder mapping, risk mitigation matrices, and operational roadmaps within seconds.
 
-## Screenshots
-
-### 1. Project Idea Input Interface
-
-Users provide their social innovation idea, problem statement, target users, and project details. ImpactLens AI analyzes this information to generate a structured impact assessment.
-
-![Project Input Screen](<img width="344" height="338" alt="Capture3" src="https://github.com/user-attachments/assets/5f5af4df-84dd-4b59-967e-c404e90cef5d" />
-)
-
-### 2. AI Analysis Generation Process
-
-After submitting the project idea, the AI engine powered by Google Gemini processes the information and generates a multi-dimensional impact evaluation, including SDG alignment, feasibility scoring, risks, and recommendations.
-
-![AI Analysis Generation](<img width="485" height="373" alt="Capture4" src="https://github.com/user-attachments/assets/7c7881af-60f1-42f8-8787-c70269c14c77" />
-)
-
-### 3. Generated Impact Report
-
-The final output provides an investor-ready impact report with problem analysis, SDG mapping, stakeholder insights, scoring matrix, risk assessment, KPIs, and execution roadmap.
-
-![Generated Impact Report](<img width="483" height="446" alt="Capture5" src="https://github.com/user-attachments/assets/97fe13a8-efa6-403f-8b7e-baf99f9b890d" />
-)
-
-By combining Google Gemini's reasoning capabilities with official UN SDG taxonomy, ImpactLens AI transforms raw project briefs into clear, quantifiable impact reports designed for donors, grant committees, and field teams.
-
 ## Core Capabilities
 
 - **Problem & Root Cause Deconstruction**: Analyzes underlying economic, structural, and regulatory drivers behind complex societal challenges and assigns severity ratings with actionable rationale.
